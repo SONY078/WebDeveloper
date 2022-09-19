@@ -255,6 +255,19 @@ h1
     );
     padding: 10px 0px 10px 12px;
 }
+#block6
+{
+    border-radius: 20px;
+    width: 1000px;
+    background-color:rgb(142, 28, 28);
+    background: linear-gradient(
+        rgb(241, 173, 241),
+        rgb(57, 5, 57),
+        rgb(226, 99, 226)
+       
+    );
+    padding: 10px 0px 10px 12px;
+}
 #resume
 {
     border: 1px solid rgb(205, 203, 203);
